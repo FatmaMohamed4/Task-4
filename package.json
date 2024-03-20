@@ -1,0 +1,36 @@
+{
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "base64-js": "^1.5.1",
+    "bowser": "^2.11.0",
+    "bson": "^4.7.2",
+    "buffer": "^5.7.1",
+    "fast-xml-parser": "^4.1.2",
+    "ieee754": "^1.2.1",
+    "ip": "^2.0.0",
+    "memory-pager": "^1.5.0",
+    "mongodb": "^4.17.2",
+    "mongodb-connection-string-url": "^2.6.0",
+    "mongoose": "^8.2.2",
+    "punycode": "^2.3.0",
+    "saslprep": "^1.0.3",
+    "smart-buffer": "^4.2.0",
+    "socks": "^2.7.1",
+    "sparse-bitfield": "^3.0.3",
+    "strnum": "^1.0.5",
+    "tr46": "^3.0.0",
+    "tslib": "^2.5.0",
+    "uuid": "^8.3.2",
+    "webidl-conversions": "^7.0.0",
+    "whatwg-url": "^11.0.0"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
